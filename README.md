@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here youl'll find a small smaple of the projects I've tinkered on over the years. you can also browse all the projects I've found interesting by lokking at what I've starred.
+Here youl'll find a small sample of the projects I've tinkered on over the years. You can also browse all the projects I've found interesting by looking at what I've starred .
 <!--
 **Rodrigowsky/Rodrigowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
