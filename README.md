@@ -11,9 +11,9 @@ These are some of the technologies and tools that I work with:
  <tr>
     <th>Programming Languages</th>
     <td> 
-      <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript" />
+      <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat-square" />
 <!--       <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />       -->
-      <img src="https://img.shields.io/badge/-Java-e61f24?logo=Java&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Java-e61f24?logo=Java&logoColor=white&style=flat-square" />
 <!--       <img src="https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black" />
       <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
       <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" />       -->
@@ -22,19 +22,19 @@ These are some of the technologies and tools that I work with:
   <tr>
     <th>Frameworks</th>
     <td>
-      <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?logo=spring-boot&logoColor=light-green" />
-      <img src="https://img.shields.io/badge/-React.js-black?logo=react&logoColor=Crayola" />
-      <img src="https://img.shields.io/badge/-redux-black?logo=redux&logoColor=violet" />
+      <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?logo=spring-boot&logoColor=light-green&style=flat-square" />
+      <img src="https://img.shields.io/badge/-React.js-black?logo=react&logoColor=Crayola&style=flat-square" />
+      <img src="https://img.shields.io/badge/-redux-black?logo=redux&logoColor=violet&style=flat-square" />
     </td>
   </tr>
   <tr>
     <th>Databases</th>
     <td>
-      <img src="https://img.shields.io/badge/-MongoDB-black?logo=mongodb" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat-square" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
 <!--       <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> -->
     </td>
@@ -43,42 +43,42 @@ These are some of the technologies and tools that I work with:
     <th>Hosting/SaaS/PaaS</th>
     <td>
 <!--       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" /> -->
-      <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?logo=heroku&logoColor=white" />
+      <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?logo=heroku&logoColor=white&style=flat-square" />
     </td>
   </tr>
   <tr>
     <th>Automate, Deploy, Platform & Tools</th>
     <td>
-      <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
 <!--       <img src="https://img.shields.io/badge/-Jenkins-DC382D?style=flat-square&logo=jenkins&logoColor=white" /> -->
-      <img src="https://img.shields.io/badge/-Git-black?logo=git" /> 
-      <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?logo=nginx&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/-GitHub-181717?logo=github" />
+      <img src="https://img.shields.io/badge/-Git-black?logo=git&style=flat-square" /> 
+      <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?logo=nginx&logoColor=white&style=flat-square" /> 
+      <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square" />
     </td>
   </tr>
   <tr>
     <th>Testing</th>
     <td>
 <!--       <img src="https://img.shields.io/badge/-Mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white" /> -->
-      <img src="https://img.shields.io/badge/-JUnit-25A162?logo=JUnit5&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Jest-C21325?logo=Jest&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Cypress-17202C?logo=Cypress" />
+      <img src="https://img.shields.io/badge/-JUnit-25A162?logo=JUnit5&logoColor=black&style=flat-square" />
+      <img src="https://img.shields.io/badge/-Jest-C21325?logo=Jest&logoColor=black&style=flat-square" />
+      <img src="https://img.shields.io/badge/-Cypress-17202C?logo=Cypress&style=flat-square" />
     </td>
   </tr>
   <tr>
     <th>Operating Systems</th>
     <td>
-      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-      <img src="https://img.shields.io/badge/mac%20os-000000.svg?logo=apple&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
+      <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/mac%20os-000000.svg?logo=apple&logoColor=white&style=flat-square" />
     </td>
   </tr>
   <tr>
     <th>Markup/Markdown</th>
     <td>
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
 <!--       <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white" /> -->
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3" />
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=flat-square" />
     </td>
   </tr>
 <!--   <tr>
