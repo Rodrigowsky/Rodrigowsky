@@ -110,6 +110,8 @@ These are some of the technologies and tools that I work with:
 console.log(`Feel free to contribute`);
 ```
 
+<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+ -->
 <!--
 **Rodrigowsky/Rodrigowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
