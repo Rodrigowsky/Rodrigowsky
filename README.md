@@ -63,6 +63,8 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-JUnit-25A162?logo=JUnit5&logoColor=black&style=flat" />
       <img src="https://img.shields.io/badge/-Jest-C21325?logo=Jest&logoColor=black&style=flat" />
       <img src="https://img.shields.io/badge/-Cypress-17202C?logo=Cypress&style=flat" />
+     <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white&style=flat" />
+     <img src="https://img.shields.io/badge/-Hoppscotch-31C48D?logo=Hoppscotch&logoColor=black&style=flat" />
     </td>
   </tr>
   <tr>
