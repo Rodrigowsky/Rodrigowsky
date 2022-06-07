@@ -134,6 +134,13 @@ Here are some ideas to get you started:
 
 <!-- <a href="https://visitor-badge.laobi.icu/badge?page_id=Rodrigowsky.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=Rodrigowsky.visitor-badge&title=Visits" align="center" alt="Visits"></a>  -->
 
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/last%20major%20release-aug.%202000-important" />
+  <img src="https://img.shields.io/badge/unminified%20size-6%20feet%206%20inches-informational" />
+  <img src="https://img.shields.io/badge/vulnerabilities-high-critical" />
+  <img src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" />
+</p> -->
+
 <!-- badge_plugin_start -->
 
 <!-- ---
