@@ -1,4 +1,7 @@
+
 ### Hi there 👋
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFC83D&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+ -->
 
 Here you'll find a small sample of the projects I've tinkered on over the years. You can also browse all the projects I've found interesting by looking at what I've starred.
 
