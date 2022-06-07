@@ -131,3 +131,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Made with ❤️ in <img src="https://cdn-icons-png.flaticon.com/512/197/197463.png" width="15"> -->
+<!-- Made with ❤️ and Markdown -->
