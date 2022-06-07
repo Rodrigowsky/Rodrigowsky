@@ -132,5 +132,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- badge_plugin_start -->
+
+<!-- ---
+
+<a href="https://github.com/Rodrigowsky" alt="https://github.com/Rodrigowsky"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Rodrigowsky&color=000000"></a>
+
+<a href="https://github.com/blackcater/blackcater/blob/main/LICENSE" alt="https://github.com/blackcater/blackcater/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a> -->
+
+<!-- badge_plugin_end -->
+
 <!-- Made with ❤️ in <img src="https://cdn-icons-png.flaticon.com/512/197/197463.png" width="15"> -->
 <!-- Made with ❤️ and Markdown -->
