@@ -153,3 +153,18 @@ Here are some ideas to get you started:
 
 <!-- Made with ❤️ in <img src="https://cdn-icons-png.flaticon.com/512/197/197463.png" width="15"> -->
 <!-- Made with ❤️ and Markdown -->
+
+<!-- <h1>
+  i'm a vue.js fanboy, but i do some other stuff too :hammer:
+</h1> -->
+
+<!-- <h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in <img src="https://cdn-icons-png.flaticon.com/512/197/197463.png" width="15"></p> -->
+
+<!-- <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+ -->
