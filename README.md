@@ -38,8 +38,8 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white&style=flat" />
       <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
-<!--       <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> -->
+<!--       <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" /> -->
+      <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=black&style=flat" /> 
     </td>
   </tr>
   <tr>
