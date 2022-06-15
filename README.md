@@ -42,7 +42,22 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=black&style=flat" /> 
     </td>
   </tr>
+<!--  <tr>
+    <th>ORMs</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat" /> 
+    </td>
+  </tr>
   <tr>
+   <tr>
+    <th>Messsage Brokers</th>
+    <td>
+     <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitMQ&logoColor=black&style=flat" />
+      <img src="https://img.shields.io/badge/-Apache Kafka-231F20?logo=apache-kafka&logoColor=white&style=flat" /> 
+    </td>
+  </tr>
+  <tr> -->
     <th>Hosting/SaaS/PaaS</th>
     <td>
 <!--       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" /> -->
@@ -54,6 +69,7 @@ These are some of the technologies and tools that I work with:
     <td>
       <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" />
 <!--       <img src="https://img.shields.io/badge/-Jenkins-DC382D?style=flat-square&logo=jenkins&logoColor=white" /> -->
+<!--      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> -->
       <img src="https://img.shields.io/badge/-Git-black?logo=git&style=flat" /> 
       <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?logo=nginx&logoColor=white&style=flat" /> 
       <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat" />
