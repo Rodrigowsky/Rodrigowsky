@@ -57,6 +57,7 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-Git-black?logo=git&style=flat" /> 
       <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?logo=nginx&logoColor=white&style=flat" /> 
       <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat" />
+<!--       <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apache-tomcat&logoColor=black&style=flat" /> -->
     </td>
   </tr>
   <tr>
