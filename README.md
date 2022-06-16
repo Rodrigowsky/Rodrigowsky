@@ -17,9 +17,10 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat" />
 <!--       <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />       -->
       <img src="https://img.shields.io/badge/-Java-e61f24?logo=Java&logoColor=white&style=flat" />
-<!--       <img src="https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black" />
-      <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
-      <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" />       -->
+<!--       <img src="https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black" /> -->
+<!--       <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" /> -->
+<!--       <img src="https://img.shields.io/badge/-Python-ffff47?logo=python&style=flat" />       -->
+<!--      <img src="https://img.shields.io/badge/-Kotlin-27282c?logo=kotlin&style=flat" />     -->
    </td>
   </tr>
   <tr>
